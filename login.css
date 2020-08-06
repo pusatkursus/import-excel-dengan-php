@@ -1,0 +1,15 @@
+body{
+	background-color: #48C4AB; 
+  	background-image: linear-gradient(#48C4AB, #FFC184);
+}
+
+.panel-primary{
+	border: none;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.panel-body{
+	background-color: #48C4AB; 
+	background-image: linear-gradient(#48C4AB, #B1B4A7);
+}
